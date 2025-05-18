@@ -1,7 +1,7 @@
 ### Olá! Eu sou o André Cypriano 👋
 
-- 🔭 Hoje eu trabalho com .Net, Angular e SQL Server.
-- 🌱 Estou estudando .NET, Angular, Typescript e SQL.
+- 🔭 Trabalho com .Net, Angular e SQL Server há mais de 4 anos.
+- 🌱 Estou estudando  Angular, Typescript, .NET, e SQL.
 - 📫 Contate-me no email: andrecypriano23@outlook.com
 - 😄 Pronouns: ele/dele
 
